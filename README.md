@@ -9,6 +9,8 @@ Hanyang University ERICA , Dvision of Software
 
 *League of Legend
 
+---
+
 **My goal for this year**
 
 *Master C, java, python
