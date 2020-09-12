@@ -17,4 +17,4 @@ Hanyang University ERICA , Dvision of Software
 
 *Learn Deep Learning
 
-*If possible, develop a game
+*If possible, make a simple game
