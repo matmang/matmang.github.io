@@ -3,7 +3,7 @@
  김지우 (Jiwoo Kim) 
 =============
 
-Hanyang University ERICA , Dvision of Software
+Hanyang University ERICA , Division of Software
 ---
 
 **Interests**
